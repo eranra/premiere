@@ -3,7 +3,7 @@ Adobe premiere scripts
 
 * Add Random Transition to Adobe Premiere
 
-Use this script with AutoHotkey (https://autohotkey.com/) to automatically and randomly apply transitions between stills (or videos) in Adobe Premiere.
+Use this script with AutoHotkey (https://autohotkey.com/) to automatically and randomly apply transitions between still pictures (or videos) in Adobe Premiere.
 
 Instructions:
 (1)	Install AutoHotkey  (use link https://autohotkey.com/) )
