@@ -18,6 +18,9 @@ Have FUN 😊
 
 
 
-*Note: Configure script to fit number of random transitions (current number is 32)  
+*Note: Configure script to fit number of random transitions (current number is 32)
+
 *Note: For completeness add several extra Zig_Zag blocks transition in the end of the bin)
+
 *Note: Configure screen time line parameters (current time-line is 800,660, 1920, 1080)
+
